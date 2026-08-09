@@ -58,7 +58,7 @@ If you remember one thing from this project: **every gap above has a named cause
 ## The Model, in One Picture
 
 <div align="center">
-<img src="assets/ratio_dashboard.png" width="640" alt="Financial health ratio dashboard">
+<img src="Charts/ratio_dashboard.png" width="640" alt="Financial health ratio dashboard">
 </div>
 
 Ten years, six ratios, one story: **profitability improved sharply through FY24–25, then leverage metrics dipped in FY26** as the renewable capex cycle hit its steepest phase. Nothing here is a red flag on its own — it's a company mid-transition, and the numbers look like a company mid-transition.
@@ -72,7 +72,7 @@ The Altman Z-Score is the textbook go-to for financial distress screening. It al
 So a 9-driver **Utility Credit Quality Scorecard** was built from scratch — Net Debt/EBITDA, FFO/Net Debt, Interest Coverage, ROIC, Debt/Cap, OCF/Debt, Payout Ratio, Current Ratio, and a deliberately down-weighted Altman Z cross-reference — scored against India-utility-calibrated bands instead of global manufacturing-sector ones.
 
 <div align="center">
-<img src="assets/credit_scorecard_trend.png" width="620" alt="Credit scorecard vs actual CRISIL rating">
+<img src="Charts/credit_scorecard_trend.png" width="620" alt="Credit scorecard vs actual CRISIL rating">
 </div>
 
 It *still* runs more conservative than the actual rating. But now the gap has a clean explanation: **the scorecard is quantitative-only, and Tata Power's AA+ is propped up by things a spreadsheet can't easily score** — Tata Group parent support, a stable regulatory relationship, a demonstrated decade of deleveraging execution. That's a genuine finding about the limits of bottom-up scoring, not a modeling error.
@@ -82,13 +82,13 @@ It *still* runs more conservative than the actual rating. But now the gap has a 
 ## The DCF's Honest Problem
 
 <div align="center">
-<img src="assets/dcf_bridge.png" width="560" alt="DCF equity value bridge">
+<img src="Charts/dcf_bridge.png" width="560" alt="DCF equity value bridge">
 </div>
 
 ₹19.17 a share, against a market price of ₹402.35. Before assuming something's broken, the sensitivity grid below tests every combination of WACC (8.55%–14.55%) and terminal growth (2.5%–6.5%) the model could reasonably support:
 
 <div align="center">
-<img src="assets/sensitivity_heatmap.png" width="560" alt="DCF sensitivity heatmap">
+<img src="Charts/sensitivity_heatmap.png" width="560" alt="DCF sensitivity heatmap">
 </div>
 
 Even the single most generous cell on this entire grid — ₹332 — still lands under market price. That rules out "unlucky assumptions" as the explanation. What's left: the reinvestment rate (84%→56% of NOPAT across the forecast) genuinely suppresses near-term cash flow during an active capex cycle, and — the bigger piece — this is a **consolidated single-entity model that can't see the standalone growth-option value of TPREL**, Tata Power's renewable arm, which isn't separately listed. A sum-of-the-parts valuation is the logical next step and is flagged as exactly that: a next step, not a footnote to bury.
@@ -100,7 +100,7 @@ Even the single most generous cell on this entire grid — ₹332 — still land
 Built with Aswath Damodaran's valuation frameworks as a reference point — CAPM, bottom-up beta, FCFF discounting, stable-growth constraints — **adapted to the data actually available**, not claimed as a full replication. Where the textbook approach needed data this project didn't have, that's said outright rather than quietly patched over.
 
 <div align="center">
-<img src="assets/revenue_ebitda_pat.png" width="620" alt="Revenue, EBITDA, and PAT trend">
+<img src="Charts/revenue_ebitda_pat.png" width="620" alt="Revenue, EBITDA, and PAT trend">
 </div>
 
 **Full stack:** 10-year statement analysis → ratio & DuPont decomposition → Beta regression (2yr weekly, R²=0.36, p<0.001) → CAPM cost of equity → WACC → 3-stage FCFF DCF with a full sensitivity grid → peer relative valuation (+ a regression that's included *specifically because* it fails, to show that failure gets caught, not hidden) → 9-driver credit scorecard → 3-method VaR (historical, parametric, Monte Carlo) → football field synthesis.
