@@ -35,7 +35,7 @@ If you remember one thing from this project: **every gap above has a named cause
 | File | What it is |
 |---|---|
 | `Tata Power - DCF, Relative Valuation & Risk Analysis.xlsx` | The engine — 25-sheet model, every formula traceable |
-| `Financial_Analysis_Report.pdf` / `.docx` | 25-page deep dive — every chart, every table, every caveat |
+| `Financial_Analysis_Report.pdf` | 25-page deep dive — every chart, every table, every caveat |
 | `Management_Presentation.pptx` | 13-slide CFO-facing deck, built to present, not just read |
 | `README.md` | You are here |
 
