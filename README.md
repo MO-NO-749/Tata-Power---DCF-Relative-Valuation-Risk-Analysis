@@ -57,8 +57,8 @@ If you remember one thing from this project: **every gap above has a named cause
 
 ## The Model, in One Picture
 
-<div align="center"style="background-color: white; padding: 10px;">
-<img src="Charts/ratio_dashboard.png" width="640" alt="Financial health ratio dashboard">
+<div align="center">
+<img src="Charts/ratio_dashboard.png" width="640" alt="Financial health ratio dashboard" style="background-color: white;">
 </div>
 
 Ten years, six ratios, one story: **profitability improved sharply through FY24–25, then leverage metrics dipped in FY26** as the renewable capex cycle hit its steepest phase. Nothing here is a red flag on its own — it's a company mid-transition, and the numbers look like a company mid-transition.
