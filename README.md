@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Tata Power Ltd. — Equity Research & Valuation
+<div align="left"> <img src="Charts/football_field.png"> </div> # ⚡ Tata Power Ltd. — Equity Research & Valuation
 
 **A quantitative model that keeps disagreeing with the market — and explains, every time, exactly why.**
 
