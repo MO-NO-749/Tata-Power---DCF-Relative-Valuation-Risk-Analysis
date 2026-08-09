@@ -25,7 +25,7 @@ Five independent models were built on this company. **All five run more conserva
 If you remember one thing from this project: **every gap above has a named cause, not a shrug.** That discipline — investigate the divergence instead of averaging it away — is the actual point of the repo, more than any single number in it.
 
 <div align="center">
-<img src="assets/football_field.png" width="620" alt="Football field valuation synthesis">
+<img src="Charts/football_field.png" width="620" alt="Football field valuation synthesis">
 </div>
 
 ---
