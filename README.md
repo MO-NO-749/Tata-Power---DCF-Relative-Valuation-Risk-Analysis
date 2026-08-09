@@ -139,6 +139,6 @@ Historical financials via Screener.in · Tata Power investor presentations (FY25
 
 <div align="center">
 
-*Built and maintained as a personal portfolio project. Feedback — especially disagreement — welcome via issues or PRs.*
+*Built and maintained as a personal portfolio project. Feedback — especially disagreement — welcome via issues *
 
 </div>
