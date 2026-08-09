@@ -135,7 +135,7 @@ Because a portfolio project should own its gaps as openly as it owns its finding
 
 ## Sources & Tools
 
-Historical financials via Screener.in · Tata Power investor presentations (FY25–FY26) · CRISIL rating rationales (2019–2025) · Valuation approach informed by Aswath Damodaran (NYU Stern) · Built in Excel, Python (matplotlib), and a lot of double-checking.
+Historical financials via Screener.in · Tata Power investor presentations (FY25–FY26) · CRISIL rating rationales (2019–2025) · Valuation approach informed by Aswath Damodaran (NYU Stern) Whereever possible with avelable data · Built in Excel, Documentation with help of Clude & Chatgpt, and a lot of double-checking.
 
 <div align="center">
 
