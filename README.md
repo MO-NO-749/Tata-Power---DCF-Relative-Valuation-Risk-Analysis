@@ -57,7 +57,7 @@ If you remember one thing from this project: **every gap above has a named cause
 
 ## The Model, in One Picture
 
-<div style="background-color: white; padding: 10px; display: inline-block;">
+<div <div align="center"; style="background-color: white; padding: 10px; display: inline-block;">
   <img src="Charts/ratio_dashboard.png" width="640" alt="Financial health ratio dashboard">
 </div>
 
