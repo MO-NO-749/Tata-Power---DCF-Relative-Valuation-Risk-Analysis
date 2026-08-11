@@ -142,3 +142,13 @@ Historical financials via Screener.in · Tata Power investor presentations (FY25
 *Built and maintained as a personal portfolio project. Feedback — especially disagreement — welcome via issues*
 
 </div>
+
+## 🌟 About Me
+
+Hi there! I'm **Monojit Samanta**. I’m an B.com graduate with exposure in MIS & office Assistent want to excel in my professional life with data in front and finance as domain.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monojit-samanta-720889383)
+
+
